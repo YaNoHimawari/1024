@@ -1,0 +1,10 @@
+// LISTING 3.6 - Printing Characters Based on Numbers
+#include <iostream>
+
+int main()
+{
+    for (int i = 32; i<128; i++)
+        std::cout << (char) i;
+
+    return 0;
+}
