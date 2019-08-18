@@ -1,0 +1,48 @@
+{
+    "title": "1024",
+    "description": "编程笔记",
+    "author": "wangnanliang",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "plugins": [
+        "code",
+        "-search",
+        "search-pro",
+        "github",
+        "splitter",
+        "tbfed-pagefooter",
+        "-sharing",
+        "sharing-plus",
+        "highlight",
+       "expandable-chapters",
+        "multipart",
+        "ancre-navigation"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/YaNoHimawari"
+        },
+        "code": {
+            "copyButtons": true
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © YaNoHimawari 2019",
+            "modify_label": "最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+			"qq": true,
+            "weibo": true,
+            "all": [
+                "douban",
+                "qzone"
+            ]
+        }
+        
+    }
+   
+}
