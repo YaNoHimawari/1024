@@ -3,3 +3,4 @@
 /GitBook/.obsidian/
 /GitBook/node_modules/
 .gitignore
+.DS_Store
