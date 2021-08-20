@@ -28,5 +28,6 @@
 * [Python](Body/Python/Python.md)
 
 ### 其他
+* [vscode-cmake](Body/其他/vscode-cmake.md)
 * [Git](Body/其他/Git.md)
 * [GitHub资源](Body/其他/GitHub资源.md)

@@ -1,12 +1,8 @@
 # 序
 
-------
-
-**名称**：《1024》
-
-**作者**：YaNoHimawari
-
-**内容**：  本书为个人对所学所用的编程知识及技能总结归纳的成果。
-
-------
+> **名称**：《Revery》
+>
+> **作者**：&nbsp;&nbsp;Ryou
+>
+> To make a prairie, it takes a clover and one bee.
 

@@ -1,7 +1,7 @@
 {
-    "title": "《1024》",
+    "title": "Revery",
     "description": "编程笔记",
-    "author": "wangnanliang",
+    "author": "Ryou",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
@@ -28,7 +28,7 @@
             "copyButtons": true
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © YaNoHimawari 2019",
+            "copyright": "Copyright © Ryou 2021",
             "modify_label": "最后修改时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
